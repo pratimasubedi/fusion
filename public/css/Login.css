@@ -1,0 +1,102 @@
+.Login-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+    font-size:30px;
+}
+/**/
+
+.account-popup h1{
+    text-align: center;
+        padding: 20px 0px;
+    margin-bottom: 60px;
+    color: var(--primary-color);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.cfield i{
+    color: #FB236A;
+}
+
+.password-section{
+    color: #FB236A;
+}
+.account-popup > form .cfield input {
+    float: left;
+    width: 100%;
+    background: no-repeat;
+    margin: 0;
+    font-family: Open Sans;
+    font-size: 15px;
+    color: #474747;
+    padding: 16px 45px 16px 15px;
+}
+
+.account-popup > form .cfield i {
+    position: absolute;
+    right: 0;
+    top: 15px;
+    right: 20px;
+    font-size: 19px;
+}
+.account-popup > form .cfield {
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-bottom: 19px;
+    border: 2px solid #e8ecec;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+}
+.remember-label {
+    margin: 0;
+    font-family: Open Sans;
+    font-size: 14px;
+    color: #202020;
+}
+.label {
+    position: relative;
+    display: inline-block;
+    padding: 0 0 0 2em;
+    height: 1.5em;
+    line-height: 1.5;
+    cursor: pointer;
+}
+
+.account-popup > form > a {
+    float: right;
+    font-family: Open Sans;
+    font-size:18px;
+    text-decoration: underline;
+    line-height: 30px;
+}
+
+.btn-btn-default{
+    padding:10px 40px ;
+    margin-top: 10px;
+    background-color:#141F72;
+    border-radius:100px;
+    color: #fff;
+}
+.btn-btn-default:hover{
+    background-color:var(--primary-color);
+}
+
+.Register-section a{
+     color: var(--secondary-color);
+}
+
+.Register-section{
+        margin-bottom: 62px;
+    font-family: Opens sans-serif;
+    font-style: italic;
+}

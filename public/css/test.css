@@ -1,0 +1,73 @@
+/*counter*
+.wedo-counter{
+    width: 100%;
+    background: var(--primary-color);
+    padding:70px 0;
+    margin-top: -40px;
+}
+
+.count
+{
+  line-height: 50px;
+  color:white;
+  
+  font-size:44px;
+  
+}
+.count-icon{
+    color: #fff;
+    margin-top: 20px;
+}
+
+.number-count{
+    text-align: left;
+}
+
+.number-count span{
+    display: block;
+}
+
+.number-count label{
+        font-size: 15px;
+    font-weight: 600;
+    margin: 10px 0 0;
+    position: relative;
+    text-transform: uppercase;
+    color: #fff;counter
+}
+.wedo-counter{
+    width: 100%;
+    background: var(--primary-color);
+    padding:70px 0;
+    margin-top: -40px;
+}
+
+.count
+{ line-height: 50px;
+  color:white;
+
+  font-size:44px;
+  
+}
+.count-icon{
+    color: #fff;
+    margin-top: 20px;
+}
+
+.number-count{
+    text-align: left;
+}
+
+.number-count span{
+    display: block;
+}
+
+.number-count label{
+        font-size: 15px;
+    font-weight: 600;
+    margin: 10px 0 0;
+    position: relative;
+    text-transform: uppercase;
+    color: #fff;
+}
+/**/

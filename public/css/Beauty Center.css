@@ -1,0 +1,307 @@
+
+.Beauty-Center-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+}
+
+.Beauty-Center-heading h6{
+    color:#FB236A;
+    font-weight: bold;
+    margin-left: 480px;
+
+}
+
+/**/
+.beauty-center-image{
+    height:270px;
+    overflow:hidden;
+}
+.beauty-center-image img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+    
+}
+
+.job-head-info {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 25px;
+   
+}
+.job-head-info h4 {
+    float: left;
+    width: 100%;
+    font-family: Open Sans;
+    font-size: 16px;
+    color: #202020;
+    margin: 0;
+    margin-bottom: 0px;
+    margin-bottom: 10px;
+}
+.job-head-info span {
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 10px;
+}
+.job-head-info p {
+    /*float: left;*/
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    font-size: 14px;
+    margin-right: 40px;
+    color: #888;
+    margin-top: 11px;
+}
+.job-head-info p i {
+    float: left;
+    font-size: 21px;
+    line-height: 27px;
+    margin-right: 9px;
+}
+.Beauty-Center-Section{
+ padding:60px 0px;
+}
+
+.apply-thisjob1 button>i {
+    font-size: 28px;
+    margin-right: 8px;
+    line-height: 11px;
+    position: relative;
+    top: 5px;
+}
+.apply-thisjob1 button {
+    float: left;
+    width: 100%;
+    border: 2px solid #8b91dd;
+    text-align: center;
+    color: #8b91dd;
+    background-color: white;
+
+    border-radius: 8px;
+    padding: 20px 20px;
+    font-size: 15px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+.apply-thisjob1 button:hover {
+background-color: #8B91DD;
+color: #fff;
+}
+
+
+.apply-thisjob i {
+    font-size: 28px;
+    margin-right: 8px;
+    line-height: 11px;
+    position: relative;
+    top: 5px;
+}
+.apply-thisjob {
+    float: left;
+    width: 100%;
+    border: 2px solid #8b91dd;
+    text-align: center;
+    color: #8b91dd;
+
+    border-radius: 8px;
+    padding: 20px 20px;
+    font-size: 15px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+.apply-thisjob:hover {
+background-color: #8B91DD;
+color: #fff;
+}
+
+
+.extra-job-info > span i {
+    float: left;
+    font-size: 30px;
+    color: #8b91dd;
+    width: 30px;
+    margin-right: 12px;
+}
+.extra-job-info > span strong {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: normal;
+    color: #202020;
+    line-height: 28px;
+    display: inline-block;
+    margin-right: 7px;
+}
+.extra-job-info {
+    float: left;
+    margin-top: 30px;
+}
+.extra-job-info > span {
+    float: left;
+    width:100%;
+    border: 2px solid #e8ecec;
+    border-radius: 8px;
+    padding: 17px 73px;
+    margin-bottom: 20px;
+    font-family: Open Sans;
+    font-size: 14px;
+    color: #888888;
+}
+
+
+
+.job-details {
+    float: left;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.job-details h3 {
+    float: left;
+    width: 100%;
+    font-family: Open Sans;
+    font-size: 16px;
+   color: #fb236a;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.job-details p, .job-details li {
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 19px;
+}
+
+.job-details > ul {
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.job-details > ul li {
+    float: left;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 0px;
+    position: relative;
+    padding-left: 23px;
+    line-height: 21px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #888888;
+        display: inline-block;
+}
+.job-details > ul li::before {
+    position: absolute;
+    left: 0;
+    top: 13px;
+    width: 10px;
+    height: 1px;
+    background: #888888;
+    content: "";
+}
+
+
+.job-overview {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+    border:1px solid#E8ECEC;
+    margin-bottom:50px;
+}
+.job-overview > h2{
+    float: left;
+    width: 100%;
+    font-family: Open Sans;
+    font-size:20px;
+    text-align: center;
+}
+.job-overview > h3 {
+    float: left;
+    width: 100%;
+    font-family: Open Sans;
+    font-size:20px;
+}
+.job-overview ul > li {
+    float: left;
+    width: 100%;
+    margin: 0;
+    position: relative;
+    padding-left: 67px;
+    margin: 15px 0;
+        display: inline-block;
+}
+.job-overview ul > li i {
+    position: absolute;
+    left:23px;
+    top:5px;
+    font-size:30px;
+    color:#8b91dd;
+}
+.job-overview ul > li i:hover{
+    color:#FB346A;
+    }
+
+.job-overview ul > li h3 {
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    font-family: Open Sans;
+    margin: 0;
+}
+.job-overview ul > li span {
+    float:left;
+    width:100%;
+    font-size:14px;
+    color:#888888;
+    margin-top:7px;
+}
+.beauty-button{
+    background-color:#FB236A;
+    color: #fff;
+    padding:15px;
+    border-radius: 25px;
+
+}
+.beauty-button:hover{
+    color:#FB236A;
+   background-color: #fff;
+   border-color:#FB236A; 
+
+}
+
+.beauty-jobs-section h1{
+    font-size:16px;
+  
+}
+
+.beauty-jobs-section {
+    margin-bottom:90px;
+}
+
+
+.beauty-section-1{
+    padding:15px 0px;
+    border:1px solid #ccc;
+    margin:10px 0px;
+}
+
+.beauty-section-2{
+    padding:15px 0px;
+    border:1px solid #ccc;
+    margin:10px 0px;
+}

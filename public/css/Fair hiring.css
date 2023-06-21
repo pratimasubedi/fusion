@@ -1,0 +1,140 @@
+
+
+.fairhiring-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+    
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+}
+
+.fairhiring-heading h6{
+    color:#FB236A;
+    font-weight: bold;
+    margin-left: 480px;
+
+}
+
+/*next-1*/
+
+.fairhiring-part{
+    padding-bottom: 125px;
+}
+
+.fairhiring-image{
+    height:400px;
+    overflow:hidden;
+    background: #000;
+    box-shadow:  -1px 3px 4px 0 #eee;
+}
+
+.fairhiring-image img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+    opacity: .5;
+
+}
+
+.fairhiring-column-1{
+    padding-top:50px;
+}
+
+.fairhiring-column-2{
+    padding-top:50px;
+}
+.fairhiring-column-2 h1{
+    font-size:20px;
+    padding-left: 34px;
+}
+.fairhiring-categories{
+    color:#888;
+}
+
+.fairhiring-categories:hover{
+    color:#ff0000;
+}
+
+.fairhiring-categories i{
+    padding-right:20px;
+    font-size: 12px;
+}
+.fairhiring-more-post h6{
+    color:#333;
+    margin-left:0px;
+    text-decoration:none;
+    font-weight:400px;
+}
+
+.fairhiring-more-post h6:hover{
+    color:#ff0000;
+}
+
+.more-post-section span{
+    float: left;
+    width: 100%;
+    font-size: 13px;
+    color: #888888;
+    margin-top: 5px;
+}
+
+.more-post-images{
+    height:80px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.more-post-images img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+.more-post-section{
+    padding-left:36px;
+    padding-bottom:20px;
+}
+
+.Fair-hiring-lastpart{
+       margin-top: 30px;
+}
+
+.fairhiring-Ethical-Recruitment h3{
+    color:#333;
+    font-weight:500px;
+
+}
+.fairhiring-Ethical-Recruitment h3:hover{
+    color:var(--primary-color);
+
+}
+.fairhiring-Ethical-Recruitment:hover{
+        text-decoration:none!important;
+}
+.fairhiring-Ethical-paragraph{
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 24px;
+    margin: 0;
+    margin-top: 4px;
+}
+
+
+.fairhiring-btn{
+    background-color:#fff;
+    color:#FB236A;
+    border-color:#FB236A;
+    border-radius:25px;
+    margin-top:30px;
+    padding:10px 30px;
+}
+
+.fairhiring-btn:hover{
+    background-color:var(--primary-color);
+    color: #fff; 
+}

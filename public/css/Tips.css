@@ -1,0 +1,151 @@
+
+
+.Tips-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+    
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+}
+
+.Tips-heading h6{
+    color:#FB236A;
+    font-weight: bold;
+    margin-left: 480px;
+
+}
+
+/*next-1*/
+
+.Tips-part{
+    padding-bottom: 125px;
+}
+
+.Tips-image{
+    height:400px;
+    overflow:hidden;
+}
+
+.Tips-image img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+
+.Tips-column-1{
+    padding-top:50px;
+}
+
+.Tips-column-2{
+    padding-top:50px;
+}
+
+.Tips-column-2 h1{
+    font-size:20px;
+    padding-left:34px;
+    color:#888;
+}
+.Tips-column-2 ul>li>a{
+    color:#888888;
+} 
+
+.Tips-categories:hover{
+    color:#ff0000;
+}
+
+.Tips-categories i{
+    padding-right:20px;
+    font-size: 12px;
+}
+.Tips-more-post h6{
+    color:#333;
+    margin-left:0px;
+    text-decoration:none;
+    font-weight:400px;
+}
+
+.Tips-more-post h6:hover{
+    color:#ff0000;
+}
+
+.more-post-section span{
+    float: left;
+    width: 100%;
+    font-size: 13px;
+    color: #888888;
+    margin-top: 5px;
+}
+
+.more-post-images{
+    height:80px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.more-post-images img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+.more-post-section{
+    padding-left:36px;
+    padding-bottom:20px;
+}
+
+.Tips-lastpart{
+}
+
+.Tips-Jobs-Interview h3{
+    color:#333;
+    font-weight:500px;
+    padding-top: 20px;
+}
+.Tips-Jobs-Interview h3:hover{
+    color:var(--primary-color);
+}
+.Tips-Interview-paragraph{
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 24px;
+
+}
+.Tips-btn{
+    background-color:#fff;
+    color:#FB236A;
+    border-color:#FB236A;
+    border-radius:25px;
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:10px 30px;
+}
+
+.Tips-btn:hover{
+    background-color:var(--primary-color);
+    color: #fff; 
+}
+
+.tips-next-section{
+    margin-top:90px;
+    margin-left: -159px;
+
+
+}
+
+.Tips-next-section-image{
+  height:400px;
+  overflow:hidden;
+  border-radius:5px;
+  margin-bottom: 20px;
+}
+
+.Tips-next-section-image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}

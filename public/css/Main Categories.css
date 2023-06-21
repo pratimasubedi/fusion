@@ -1,0 +1,125 @@
+
+
+
+.Main-Categories-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+    font-size:30px;
+}
+/**/
+.p-category.style2 {
+    height: auto;
+    width: 100%;
+    margin-left: 0px;
+}
+.p-category.style2 {
+       background: #A40583;
+    border: none;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+   border-radius: 17px;
+    padding: 40px;
+    color: #fff;
+    margin-top: 30px;
+    text-align:center;
+    transition: all .3s ease-in-out;
+}
+
+.p-category.style2:hover{
+        transform: scale(1.1);
+}
+.p-category {
+    width: 100%;
+    z-index: 1;
+    position: relative;
+}
+.p-category.style2 > a {
+    text-decoration: none;
+    color: var(--secondary-color);
+    border: none;
+
+}
+.style2{
+    margin-top: 40px;
+}
+.cat-sec:last-child a {
+    border-bottom-color: #ffffff;
+}
+.p-category > a {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e8ecec;
+    border-right: 1px solid #e8ecec;
+}
+.p-category.style2 > a i {
+   color:#8B91DD;
+}
+
+.p-category.style2 > a i:hover {
+   color:#FB236A;
+}
+
+.p-category > a i {
+    float: left;
+    width: 100%;
+    color: #8b91dd;
+    font-size: 70px;
+    margin-top: 30px;
+}
+.job-category-icon {
+    color: #8b91dd !important;
+}
+.p-category > a span {
+    width: 100%;
+    font-family: Open Sans;
+    font-size: 25px;
+    color: #fff;
+}
+.p-category.style2 > a p {
+    color: #fff;
+}
+.about-tabs ul{
+        text-align: center;
+    box-shadow: 3px 6px 4px 0 #eee;
+    padding: 20px;
+}
+
+.about-tabs ul>li{
+    float: none;
+    display: inline-block;
+}
+.about-tabs ul>li>a{
+        color: #A40583;
+    font-weight: bold;
+    padding: 10px;
+    margin: 4px;
+    transition: all .3s ease-in-out;
+}
+
+/*.about-tabs ul>li>a:hover{
+background-color:#8B91DD;
+color: #fff;
+
+
+}*/
+.about-tabs ul>li>a:hover{
+   background: #65bc49;
+    color: #A405A7;
+    border-radius: 63px;
+    margin: 16px;
+    text-decoration: none;
+}
+
+.about-tabs{
+    padding:90px 0px;
+
+}

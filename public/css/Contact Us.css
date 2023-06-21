@@ -1,0 +1,101 @@
+.Contact-us-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+}
+
+.Contact-us-heading h6{
+    color:#FB236A;
+    font-weight: bold;
+    margin-left: 480px;
+    font-size: 20px;
+
+}
+
+
+.pf-title {
+    float: left;
+    width: 100%;
+ 
+    font-family: Open Sans;
+    font-size: 14px;
+    color: #202020;
+}
+.pf-field {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.pf-field > input, .pf-field > textarea {
+    float: left;
+    width: 100%;
+    border: 2px solid #e8ecec;
+    border-radius: 8px;
+    padding: 12px 45px 12px 15px;
+    background: #ffffff;
+    font-family: Open Sans;
+    font-size: 13px;
+color: #101010;
+    line-height: 24px;
+}
+.pf-field > i {
+    position: absolute;
+    right: 20px;
+    top: 0;
+    font-size: 20px;
+    color: #8b91dd;
+    line-height: 48px;
+}
+
+
+.contact-us-send-button {
+   border-color:var(--primary-color);
+    background-color:#fff;
+   color:#FB236A;
+    padding:16px 62px;
+    margin-bottom:90px;
+    border-radius:25px;
+}
+.contact-us-send-button:hover{
+    color:#fff;
+    
+      
+     background-color:var(--primary-color);
+    }
+
+
+.contact-section{
+    padding-top:90px;
+}
+
+.contact-section h3{
+    padding: 10px;
+    font-size: 20px;
+    border-bottom: 1px solid;
+}
+
+.contact-text{
+       background-color: #65bc49;
+    padding: 50px;
+    color: #fff;
+    box-shadow: 2px 3px 4px 0 #ff0;
+}
+
+
+
+.contact-text ul>li{
+    padding-bottom:50px;
+    display:block;
+}
+
+.contact-text ul>li>i{
+    color:#8B91DD;
+    padding-right:20px;
+    padding-top:10px;
+}

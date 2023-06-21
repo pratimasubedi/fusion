@@ -1,0 +1,16 @@
+.pageTitleContainer{
+	position: absolute;
+	top: 230px;
+	color: var(--primary-color);
+}
+.pageTitleContainer .pageTitle p{
+	color: #555;	
+	font-size: 17px;
+	    font-family: Open Sans;
+}
+
+.pageTitleContainer .pageTitle h1{
+	font-weight: bold;
+	font-style: italic;	
+	    font-family: Open Sans;
+}

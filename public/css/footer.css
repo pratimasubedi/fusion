@@ -1,0 +1,155 @@
+.footer-ft{
+      box-shadow: 0px -1px 4px 0 #eee;
+   
+    padding:15px 0 0 0;
+}
+
+.about_widget .logo {
+    float: left;
+    width: 100%;
+       
+}
+.fusion-logo{
+    margin: 3px 0;
+    position: relative;
+}
+.logo{
+	height:105px;
+	overflow:hidden;
+    padding:0 0 10px 0;
+}
+.logo img{
+	height:100%;
+	width:50%;
+	object-fit:cover;
+}
+
+.about_widget > span {
+    width: 100%;
+    float: left;
+    font-family: Open Sans;
+    font-size:13px;
+    color: #8a99b3;
+    line-height:30px;
+}
+
+
+.link_widgets1 a:hover {
+    color: #00255d !important;
+}
+.link_widgets1 a:hover {
+    color: #7dc246 !important;
+    padding-left: 36px !important;
+}
+
+
+.link_widgets1 a {
+    float: left;
+    width: 100%;
+    position: relative;
+    font-family: Open Sans;
+    font-size: 13px;
+    color: #8a99b3;
+    margin-bottom: 12px;
+    padding-left: 24px;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -ms-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+
+
+.subscribe_widget form {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+
+.subscribe_widget form input {
+    border: 1px solid #7a8493;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+    background: none;
+    margin-bottom: 30px;
+    font-family: Open Sans;
+    font-size: 13px;
+    color: #dae4f3;
+    padding: 24px 116px;
+}
+
+.subscribe_widget form a {
+    position: absolute;
+    right: 0;
+  border-radius: 0 6px 6px 0px;
+      background: var(--primary-color);
+    padding: 0;
+      font-size: 42px;
+    color: #fff;
+    
+        height:69px;
+    width: 16%;
+}
+
+
+.footer-Copyright-section{
+    margin-top: 69px;
+    background:  var(--primary-color);
+    color: #fff;
+    padding: 30px;
+    border-top: 1px solid #eee;
+    box-shadow: 0 0 4px 0 #eee;
+     font-weight: bold;
+    font-family: Open sans-serif;
+}
+.footer-Copyright-section p>a{
+      color: #fff!important;
+    font-weight: bold;
+    font-family: Open sans-serif;
+}
+.footer-Copyright-section p>a:hover{
+   color: var(--secondary-color)!important;
+}
+
+.footer-title {
+    font-family: Open Sans;
+    font-size:20px;
+    color: var(--primary-color);
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 0px;
+    margin-bottom: 30px;
+    font-style: italic;
+}
+
+
+.widget{
+	text-align:center;
+}
+
+
+.footer-address-section i, .footer-postbox-section i, .footer-postbox-section i, .footer-contact-section i, .footer-email-section i{
+   padding-right:10px;
+}
+.footer-address-section:hover, .footer-postbox-section:hover, .footer-postbox-section:hover, .footer-contact-section:hover, .footer-email-section:hover {
+   color: #7dc246 !important;
+   padding-left: 36px !important;
+}
+.footer-address-section, .footer-postbox-section, .footer-postbox-section, .footer-contact-section, .footer-email-section {
+   float: left;
+   width: 100%;
+   position: relative;
+   font-family: Open Sans;
+   font-size: 13px;
+   color: #8a99b3;
+   padding-left: 24px;
+   -webkit-transition: all 0.4s ease 0s;
+   -moz-transition: all 0.4s ease 0s;
+   -ms-transition: all 0.4s ease 0s;
+   -o-transition: all 0.4s ease 0s;
+   transition: all 0.4s ease 0s;
+   padding: 1px 0 4px 0px;
+}

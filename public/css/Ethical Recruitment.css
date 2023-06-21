@@ -1,0 +1,176 @@
+
+
+
+.ethical-recruitment-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+}
+
+.ethical-recruitment-heading h6{
+    color:#FB236A;
+    font-weight: bold;
+    margin-left: 480px;
+    text-align: center;
+
+}
+
+/*next-1*/
+
+.ethical-recruitment-part{
+    padding-bottom: 125px;
+}
+
+.ethical-recruitment-image{
+    height:400px;
+    overflow:hidden;
+     background: #000;
+    box-shadow:  -1px 3px 4px 0 #eee;
+}
+
+.ethical-recruitment-image img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+    opacity: 0.5s;
+}
+
+.ethical-recruitment-column-1{
+    padding-top:50px;
+}
+
+.ethical-recruitment-column-2{
+    padding-top:50px;
+}
+.ethical-recruitment-column-2 h1{
+    font-size:20px;
+        padding-left: 34px;
+}
+.ethical-recruitment-categories{
+color:#888;
+}
+
+.ethical-recruitment-categories:hover{
+color:#ff0000;
+}
+
+.ethical-recruitment-categories i{
+    padding-right:20px;
+        font-size: 12px;
+}
+.ethical-recruitment-more-post h6{
+    color:#333;
+    margin-left:0px;
+    text-decoration:none;
+    font-weight:400px;
+}
+
+.ethical-recruitment-more-post h6:hover{
+color:#ff0000;
+}
+
+.more-post-section span{
+    float: left;
+    width: 100%;
+    font-size: 13px;
+    color: #888888;
+    margin-top: 5px;
+}
+
+.more-post-images{
+    height:80px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.more-post-images img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+.more-post-section{
+    padding-left:36px;
+    padding-bottom:20px;
+}
+
+.ethical-recruitment-lastpart{
+    padding-left:20px;
+}
+
+.ethical-recruitment-Ethical-Recruitment h3{
+    color:#333;
+    font-weight:500px;
+    font-size:20px;
+}
+.ethical-recruitment-Ethical-Recruitment h3:hover{
+    color:#ff0000;
+}
+.ethical-recruitment-Ethical-paragraph{
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 24px;
+    margin: 0;
+    margin-top: 4px;
+}
+
+.ethical-recruitment-button {
+    padding-left: 20px;
+    float: left;
+    font-family: Open Sans;
+    font-size: 15px;
+    color: #fb236a;
+    border: 2px solid #fb236a;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+    padding: 12px 30px;
+    margin-top: 24px;
+}
+
+.ethical-recruitment-button a{
+color:#ff0000;
+}
+.ethical-recruitment-button:hover{
+    background-color:#ff0000;
+    color: #fff;
+}
+
+ .ethical-recruitment-lastpart h1{
+    float: left;
+    width: 100%;
+    font-family: Open Sans;
+    font-size: 20px;
+    margin: 20px 0;
+    color: #202020;
+}
+
+.ethical-recruitment-lastpart p{
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.ethical-recruitment-lastpart ul {
+    list-style: outside none none;
+    margin: 0 0 30px;
+    padding: 0;
+}
+
+.ethical-recruitment-lastpart ul>li {
+    color: #1e1e1e;
+    margin-bottom: 15px;
+    position: relative;
+}

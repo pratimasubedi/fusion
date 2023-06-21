@@ -1,0 +1,19 @@
+
+
+
+.btn-secondary-user-logout{
+    padding: 15px;
+    font-weight: bold;
+    font-family: Open Sans;
+    font-style: italic;
+    transition: all .5s ease;
+    opacity: 1 !important;
+    color: #fb236c;
+    font-size:18px;
+}
+
+.btn-secondary-user-logout:hover {
+   color: #fff;
+   transform:translateY(-5px);
+  
+}

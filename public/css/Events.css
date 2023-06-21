@@ -1,0 +1,119 @@
+
+
+.Events-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+}
+
+/*next-1*/
+
+/*.events-section{
+    margin:50px 0px;
+
+}*/
+
+
+/*
+
+.post-metas{
+    margin-top:60px;
+
+}*/
+
+/*.blog-postdetail a{
+    color: #333;
+}*/
+
+/*.blog-postdetail p{
+    color: #888;
+}*/
+
+/*.blog-postdetail a:hover{
+    color:#ff0000;
+}*/
+/*
+.Events-button{
+color: #333;
+font-size:25px;
+
+}*/
+
+/*.Events-button:hover{
+color: #ff0000;
+
+}*/
+/*added by me*/
+.cont-main {
+        border: 1px solid white;
+    box-shadow: 0 0 4px 0 #eee;
+    margin-top: 50px;
+    padding: 30px;
+}
+}
+.cont-main:hover{
+    border:1px solid #FFBE30;
+
+}
+
+.smth{
+    padding: 20px;
+}
+.smth1 p>i{
+    color: var(--primary-color);
+    margin-right: 5px;
+}
+
+.smth1 h3>a{
+    color: #555;
+    font-weight: bold;
+}
+
+.smth1 h3>a:hover{
+    text-decoration: none;
+    color: #11cce1;
+}
+.smthbtn{
+    margin-top: 20px;
+}
+.smthbtn a{
+    background-color: var(--primary-color);
+    padding: 10px;
+    color: #fff;
+   
+    box-shadow: 2px 2px 4px 0 #333;
+}
+
+.smthbtn a:hover{
+    background-color: var(--primary-color);
+    padding: 10px;
+    color: #333;
+    text-decoration: none;
+}
+
+.smth_p{
+    height: 100px;
+    overflow: hidden;
+}
+
+.Events-image {
+    height: 250px;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 #eee;
+}
+
+.Events-image img{
+    height:100%;
+    width:100%;
+    object-fit: cover;
+}
+.blog-postdetail {
+    margin-top: -12px;
+}

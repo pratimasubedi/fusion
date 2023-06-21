@@ -1,0 +1,150 @@
+
+
+
+.jobs-interview-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+}
+
+.jobs-interview-heading h6{
+    color:#FB236A;
+    font-weight: bold;
+    margin-left: 480px;
+    text-align: center;
+
+}
+
+/*next-1*/
+
+.jobs-interview-part{
+    padding-bottom: 125px;
+}
+
+.jobs-interview-image{
+    height:400px;
+    overflow:hidden;
+}
+
+.jobs-interview-image img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+
+.jobs-interview-column-1{
+    padding-top:50px;
+}
+
+.jobs-interview-column-2{
+    padding-top:50px;
+}
+.jobs-interview-column-2 h1{
+    font-size:20px;
+        padding-left: 34px;
+}
+.jobs-interview-categories{
+color:#888;
+}
+
+.jobs-interview-categories:hover{
+color:#ff0000;
+}
+
+.jobs-interview-categories i{
+    padding-right:20px;
+        font-size: 12px;
+}
+.jobs-interview-more-post h6{
+    color:#333;
+    margin-left:0px;
+    text-decoration:none;
+    font-weight:400px;
+}
+
+.jobs-interview-more-post h6:hover{
+color:#ff0000;
+}
+
+.more-post-section span{
+    float: left;
+    width: 100%;
+    font-size: 13px;
+    color: #888888;
+    margin-top: 5px;
+}
+
+.more-post-images{
+    height:80px;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.more-post-images img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+.more-post-section{
+    padding-left:36px;
+    padding-bottom:20px;
+}
+
+.jobs-interview-lastpart{
+    padding-left:20px;
+}
+
+.jobs-interview-Ethical-Recruitment h3{
+    color:#333;
+    font-weight:500px;
+    font-size:20px;
+}
+.jobs-interview-Ethical-Recruitment h3:hover{
+    color:#ff0000;
+}
+.jobs-interview-Ethical-paragraph{
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 24px;
+    margin: 0;
+    margin-top: 4px;
+}
+
+
+ .jobs-interview-column-1 h1{
+    float: left;
+    width: 100%;
+    font-family: Open Sans;
+    font-size: 20px;
+    margin: 20px 0;
+    color: #202020;
+}
+
+.jobs-interview-column-1 p{
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    color: #888888;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.jobs-interview-column-1 ul {
+    list-style: outside none none;
+    margin: 0 0 30px;
+    padding: 0;
+}
+
+.jobs-interview-column-1 ul>li {
+    color: #1e1e1e;
+    margin-bottom: 15px;
+    position: relative;
+}

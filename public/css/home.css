@@ -1,0 +1,622 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Open Sans;
+
+}
+
+/**/
+.home-ftco-cover{
+height:800px;
+overflow:hidden;
+}
+.home-ftco-cover img{
+height: 100%;
+width: 100%;
+object-fit:cover;
+}
+.home-job-field {
+   
+    margin-left: 10px;
+}
+.home-search{
+    position: absolute;
+    top:223px;
+}
+.home-search .reviews-sec h3{
+color:var(--primary-color);
+float: left;
+width: 100%;
+font-family: Quicksand;
+font-size: 50px;
+font-weight: bold;
+letter-spacing: -1px;
+}
+.home-search .reviews-secspan{
+color:#555555;
+}
+.home-search .reviews-sec form {
+float: left;
+width: 100%;
+}
+
+.home-search .reviews-sec span{
+    color: #555;
+
+}
+.home-search .reviews-sec span>.text-italic{
+}
+.home-search .reviews-sec form .job-field {
+border-radius: 20px;
+width: 50%;
+
+}
+.job-field {
+float: left;
+width: 100%;
+position: relative;
+}
+.chosen-city {
+color: #777;
+border: 1px solid #fff;
+border-color: #fff;
+margin-top: 26px;
+    margin-left: 13px;
+}
+.home-search .reviews-sec form .job-field input {   
+    background-color: #fff;
+    margin-top: 20px;
+        border: 1px solid #eee;
+}
+
+/*textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active
+{
+   outline:0px !important;
+   -webkit-appearance:none;
+}*/
+
+.job-field input {
+float: left;
+width: 100%;
+background: no-repeat;
+border: none;
+font-size: 13px;
+color: #888888;
+margin: 0;
+padding: 0 70px 0 30px;
+height: 60px;
+line-height: 60px;
+background-color: #FFF;
+border-radius: 8px;
+}
+
+.plus-post-jobs-section .home-signup{
+
+display: inline;
+margin-left: 8px;
+
+}
+.plus-post-jobs-section .home-sign{
+padding: 15px 60px;
+}
+.home-post-job-btn{
+background-color: var(--primary-color);
+padding: 15px 60px;
+
+border-radius: 100px;
+color:#fff;
+margin-top: 4px!important;
+}
+
+.home-sign {
+    
+}
+.home-post-job-btn:hover{
+color:#fff;
+
+}
+.post-job-btn i{
+padding-right: 10px;
+}
+.signup-popup {
+color: #fff;
+font-size:20px;
+}
+.signup-popup i{
+padding-right:10px;
+}
+.signin-popup{
+color: #fff;
+font-size:20px;
+}
+.signin-popup i{
+padding-right:10px;
+}
+.account-popup_wider h3{
+text-align: center;
+padding:50px 0px;
+}
+.text-left label{
+font-size:20px;
+}
+.btn-signup {
+    margin-top: 25px;
+    background-color:#FB3476;
+    border-radius: 25px;
+    color: #fff;
+    padding: 19px 90px;
+    margin-right: 9px;
+}
+.btn-signup:hover{
+color:#fff;
+}
+.text-left a{
+color: var(--primary-color);
+}
+.New-user-section{
+text-align: center;
+font-size:20px;
+}
+.New-user-section a{
+color: var(--primary-color);
+}
+.modal fade{
+width:100%;
+}
+.modal-content {
+width: 714px;
+}
+.btn-primary {
+color: #fff;
+background-color: var(--primary-color);
+border-radius: 100px;
+padding: 15px 35px;
+}
+.btn-primary:hover{
+background-color:var(--primary-color);
+}
+.modal-title{
+ margin-right: 303px;
+    padding-bottom: 44px;
+    padding: 20px 0px;
+}
+.modal-title i{
+ color:#000;
+}
+
+.modal-dialog {
+    width: 300px;
+    height:400px;
+}
+.modal-footer {
+    height: 70px;
+    margin: 0;
+}
+.modal-footer .btn {
+    font-weight: bold;
+}
+.modal-footer .progress {
+    display: none;
+    height: 32px;
+    margin: 0;
+}
+.input-group-addon {
+    color: #fff;
+    background: #3276B1;
+}
+
+.close:not(:disabled):not(.disabled){
+    cursor: pointer;
+    margin-left: -12px;
+    margin-top: -25px;
+}
+.modal-body{
+        height:300px;
+}
+.input-group>.custom-select:not(:last-child), .input-group>.form-control:not(:last-child) {
+   
+    background-color: #fff;
+    border:1px solid #E8ECEC;
+}
+.modal-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+    border-bottom: 1px solid #fff; 
+}
+.form-group i{
+     position: absolute; 
+    right: 0;
+    top: 15px;
+    right: 20px;
+     font-size: 19px;
+     color:var(--primary-color); 
+}
+
+.home-login-submit-button {
+    color: #fff;
+    border-radius: 25px;
+    padding: 15px 67px;
+    margin-left: 0px;
+}
+.home-login-submit-button {
+    margin: 14px -547px;
+}
+.home-login-submit-button:hover{
+color:#fff;
+}
+
+.mt50{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.editedbtndiv{
+        margin-top: 80px;
+}
+
+/*end nav*/
+/*
+popular-category*/
+.heading{
+font-family: Quicksand;
+font-weight: bold;
+font-size: 30px;
+color: #a40583;
+    line-height: 15px;
+    text-align: center;
+}
+.paragraph {
+font-family: Open Sans;
+font-size: 16px;
+color: #888888;
+margin-top: 8px;
+line-height: 29px;
+text-align:center;
+padding-bottom:36px;
+}
+.social-icon{
+text-align:center;
+    padding: 70px 20px;
+}
+.social-icon i:hover{
+color:var(--primary-color);
+}
+.social-icon i{
+text-align:center;
+color:#8B91DD;
+}
+.social-icon p{
+color:var(--primary-color);
+float: left;
+width: 100%;
+font-size: 14px;
+margin: 0;
+margin-top: 0px;
+margin-top: 3px;
+}
+.social-icon h6{
+font-family: Open Sans;
+font-size:20px;
+color: #202020;
+margin-top: 18px;
+font-weight:300;
+}
+.social-icon-1{
+text-align:center;
+border:1px solid#ccc;
+padding:100px 20px;
+margin-bottom:70px;
+}
+.social-icon-1 i:hover{
+color:var(--primary-color);
+}
+.social-icon-1 i{
+text-align:center;
+color:#8B91DD;
+}
+.social-icon-1 p{
+color:var(--primary-color);
+float: left;
+width: 100%;
+font-size: 14px;
+margin: 0;
+margin-top: 0px;
+margin-top: 3px;
+}
+.social-icon-1 h6{
+font-family: Open Sans;
+font-size:20px;
+color: #202020;
+margin-top: 18px;
+font-weight:300;
+}
+.mt30{
+    margin-bottom: 30px;
+        border: 1px solid #eee;
+    box-shadow: -1px 3px 4px 0 #eee;
+}
+
+
+ .home-browse-btn{
+color:#fff;
+background-color:var(--primary-color);
+border-radius:25px;
+padding: 15px 30px;
+
+}
+ .home-browse-btn:hover{
+color:#fff;
+}
+/*home-relationship*/
+.home-relation {
+float: left;
+padding: 60px 0;
+position: relative;
+width: 100%;
+z-index: 1;
+background-color:#414A8A;
+margin: 50px 0px;
+    padding: 175px;
+}
+.heading.light h2 {
+color: #ffffff;
+}
+.heading > h2 {
+float: left;
+width: 100%;
+margin: 0;
+font-family: Quicksand;
+font-weight: bold;
+font-size: 30px;
+color: #202020;
+line-height: 23px;
+}
+.heading.light span {
+color: #ffffff;
+padding-bottom:50px;
+}
+.heading span {
+float: left;
+width: 100%;
+font-family: Open Sans;
+font-size: 16px;
+color: #888888;
+margin-top: 8px;
+line-height: 29px;
+}
+.stats-sec {
+float: left;
+width: 100%;
+text-align: center;
+color:#fff;
+font-size: 35px;
+font-weight:500px;
+}
+.home-featured-btn{
+text-align:center;
+color:#fff;
+background-color:var(--primary-color);
+border-radius:5px;
+padding: 15px 30px;
+margin:70px 0px;
+margin-left:500px
+}
+.home-featured-btn:hover{
+color:#fff;
+}
+.home-recents-jobs-btn{
+color:#fff;
+background-color:var(--primary-color);
+text-align:center;
+border-radius:5px;
+padding: 15px 30px;
+
+}
+.home-recents-jobs-btn:hover{
+background-color: #f2f2f2;
+color:#000;
+}
+.home-online-resume-section {
+
+text-align: center;
+background-color:#414A8A;
+    margin: 60px 0 0 0;
+    padding: 125px;
+}
+.pad0{
+    padding: 0;
+}
+.home-online-resume-section h3 {
+float: left;
+width: 100%;
+font-family: Quicksand;
+font-size:20px;
+color: #ffffff;
+font-weight: bold;
+margin: 0;
+margin-bottom: 20px;
+}
+.home-online-resume-section span {
+float: left;
+width: 100%;
+font-family: Quicksand;
+font-size: 18px;
+color: #ffffff;
+}
+.home-online-resume-btn{
+float: none;
+display: inline-block;
+border: 2px solid;
+padding: 13px 30px;
+font-family: Open Sans;
+font-size: 15px;
+margin-top: 40px;
+color: #ffffff;
+border-radius:10px;
+}
+.home-online-resume-btn:hover{
+color: var(--primary-color);
+background-color:#fff;
+}
+/**/
+/**/
+/*--recents jobs  section--*/
+.recents-jobs-section p{
+color:#66A5F2;
+font-size:13px;
+margin-bottom: 0px;
+}
+.recents-jobs-section-h1{
+text-align:center;
+color:var(--primary-color);
+padding:50px 0px;
+}
+.recents-jobs-section span{
+color:#888;
+font-size:13px;
+}
+.recents-jobs-section h6{
+color:#111;
+font-size:16px;
+}
+.home-applynow-btn{
+       padding: 5px 30px;
+       background: var(--primary-color);
+       color: #fff;
+       border-radius: 100px;
+
+}
+.home-applynow-btn:hover {
+    background-color:var(--primary-color);
+    color:#555;
+}
+.job-apply-div{
+    height: 213px;
+}
+
+
+.job-section-1{
+padding:30px;
+}
+
+.job-apply-row{
+box-shadow: 4px 0 4px 0 #eee;
+padding: 15px;
+}
+.job-img {
+    height: 250px;
+    overflow: hidden;
+}  
+.job-img img{
+height: 100%;
+width: 100%;
+object-fit: cover;
+} 
+.job-section-2{
+padding:15px 0px;
+border:1px solid #ccc;
+margin:10px 0px;
+}
+.recents-jobs-section{
+margin-bottom: 60px;
+}
+.load-more-btn{
+color:#fff;
+background-color:var(--primary-color);
+border-radius:5px;
+padding:13px 10px;
+text-align:center;
+margin-bottom: 30px;
+}
+.load-more-btn:hover{
+color:#fff;
+}
+/*--end recents jobs section--*/
+/*online-resume*/
+.home-online-resume-section span {
+font-family: Quicksand;
+font-size:16px;
+color: #ffffff;
+}
+.home-online-resume-section> h3 {
+font-family: Quicksand;
+font-size:30px;
+color: #ffffff;
+font-weight: bold;
+margin: 0;
+margin-bottom: 20px;
+}
+/*end online-resume*/
+/*works*/
+.works-section{
+background-color:#F4F5FA;
+    margin: 0 0 30px 0;
+padding:50px 0px;
+border-bottom: 1px solid#dfdfdf;
+}
+.works-heading-section{
+text-align:center;
+margin: 0;
+font-family: Quicksand;
+font-weight: bold;
+font-size: 30px;
+color: #202020;
+line-height: 23px;
+}
+.works-paragraph-section{
+text-align:center;
+padding-bottom:40px;
+font-family: Open Sans;
+font-size: 16px;
+color: #888888;
+margin-top: 8px;
+line-height: 29px;
+}
+.works-section h3{
+text-align:center;
+font-family: Open Sans;
+font-size: 18px;
+color: #121212;
+margin: 0;
+margin-top: 30px;
+}
+.works-section p{
+text-align:center;
+margin: 0;
+font-family: Open Sans;
+font-size: 14px;
+color: #888888;
+line-height: 24px;
+margin-top: 14px;
+}
+.works-section i{
+text-align:center;
+padding-left: 154px;
+color:var(--primary-color);
+}
+
+.userhome {
+    margin-top: 27px;
+    background-color: var(--primary-color);
+    color: #fff;
+    border-color: var(--primary-color);
+    padding: 7px 17px;
+}
+.userhome:hover {
+    background-color:var(--primary-color);
+    color:#555;
+}
+
+/*end works

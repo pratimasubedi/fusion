@@ -1,0 +1,87 @@
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Alegreya Sans SC', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #555;
+	letter-spacing: 1px;
+}
+a:hover{
+	text-decoration: none;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #555;
+	letter-spacing: 1px;
+	background: #eee;
+}
+/*padding*/
+
+.pad-0{
+	padding: 0;
+}
+
+.pad-tb{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.padding-tb{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.paragraph{
+	color: #555;
+	text-align: justify;
+	}
+
+.title{
+	color: #ffc107;
+	text-align: center;
+}
+.capitalize{
+	text-transform: uppercase;
+}
+
+.text-justify{
+	text-align: justify;
+}
+
+.btn-right{
+	border: 2px solid #243BD6;
+	border-radius: 100px;
+	background: transparent;
+	color: #243BD6;
+	padding: 5px 20px;
+	-webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+.btn-right:hover{
+	background: #243BD6;
+	color: #fff;
+}
+
+.btn-bg{
+	border: 2px solid #fff;
+	border-radius: 100px;
+	background: transparent;
+	color: #fff;
+	padding: 5px 20px;
+	-webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+
+.btn-bg:hover{
+	background: #fff;
+	color: #243BD6;
+}

@@ -1,0 +1,99 @@
+.album-cover{
+    height:500px;
+    overflow:hidden;
+}
+.album-cover img{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+.album-heading h3{
+   color:#fff;
+   float:left;
+   width:100%;
+   font-family:Quicksand;
+   font-weight:bold;
+   letter-spacing:-1px;
+   margin-top:370px;
+   text-align:center;
+}
+/*album-section*/
+.album-image{
+   height:262px;
+   overflow:hidden;
+   border-radius:10px;
+}
+.album-image img{
+   height:100%;
+   width:100%;
+   object-fit:cover;
+}
+.album-section{
+   position:relative;
+}
+.album-section .album-content,.album-section:after{
+   position:absolute;
+   transition:all .3s ease 0s;
+}
+.album-section:after{
+   content:"";
+   width:52%;
+   background:rgba(28,28,28,.8);
+   padding-bottom:52%;
+   opacity:0;
+   top:50%;
+   left:50%;
+   transform:rotate(0) translate(-50%,-50%);
+   transform-origin:0 0 0;
+   border-radius:5px;
+}
+.album-section:hover:after{
+   transform:rotate(-45deg) translate(-50%,-50%);
+   opacity:1
+}
+.album-section img{
+   width:100%;
+   height:auto;
+}
+.album-section .album-content{
+   width:100%;
+   top:35%;
+   left:0;
+   opacity:0;
+   z-index:1;
+}
+.album-section:hover .album-content{
+   opacity:1
+}
+.album-section .album-title {
+   color: #fff;
+   margin: 0;
+   border-top: 2px solid #fff;
+   border-bottom: 2px solid #fff;
+    padding: 10px;
+    text-align: center;
+}
+.album-icon a>i{
+   padding:0;
+   margin:12px 8px 0;
+   list-style:none;
+}
+.album-icon a {
+   display: block;
+   width: 35px;
+   height: 35px;
+   line-height: 35px;
+   border-radius: 50%;
+   border: 1px solid #fff;
+   font-size: 18px;
+   color: #fff;
+   transition: all .3s ease 0s;
+     margin-left: 194px;
+   margin-top: 8px;
+}
+.album-icon a:hover{
+   border-radius:0;
+}
+.album-main-section{
+   margin:90px 0px;
+}

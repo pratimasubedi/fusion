@@ -1,0 +1,78 @@
+
+.Sub-Categories-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+    font-size:30px;
+}
+/**/
+
+
+
+.sub-category-text > h3 {
+    float: left;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 0px;
+    margin-bottom: 16px;
+}
+.sub-category-text > h3 span {
+    float: left;
+    width: 50px;
+    height: 50px;
+    background: #fb236a;
+    border-radius: 8px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.sub-category-text {
+    float: left;
+    width: 100%;
+    border: 2px solid #e6e8ef;
+   
+    border-radius: 8px;
+    padding: 20px;
+
+    margin: 30px 0px;
+    height: 300px;
+}
+
+.sub-category-text > ul > li {
+    float: left;
+    width: 100%;
+    margin: 1px 0;
+    position: relative;
+    font-family: Open Sans;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.sub-category-text > ul > li >a {
+	color: #888;
+	}
+.sub-category-text > ul > li >a:hover {
+ color: #fb236a !important;
+}
+	.text-color {
+    color: #fb236a !important;
+}
+
+.sub-category-text > ul > li::before {
+    position: absolute;
+    left: 0;
+    top: 8px;
+    width: 15px;
+    height: 1px;
+    background: #888888;
+    content: "";
+    margin-left: -34px;
+}

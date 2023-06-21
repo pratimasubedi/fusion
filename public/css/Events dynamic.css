@@ -1,0 +1,53 @@
+.Events-dynamic-cover{
+   height: 600px;
+   overflow: hidden;
+   margin-top:20px;
+}
+
+.Events-dynamic-cover img{
+   height:100%;
+   width:100%;
+   object-fit:cover;
+}
+
+.Events-dynamic-heading h3{
+   color:#fff;
+   float: left;
+   width: 100%;
+   font-family: Quicksand;
+  font-weight: bold;
+   letter-spacing: -1px;
+   margin-top:270px;
+   text-align:center;
+}
+/**/
+.Events-dynamic-image{
+    height: 600px;
+    overflow: hidden;
+    margin-top:20px;
+}
+
+.Events-dynamic-image img{
+    height:100%;
+   width:100%;
+   object-fit:cover;
+}
+.post-metas {
+   margin-top: 19px;
+       color: #888;
+}
+
+.Events-dynamic-section h6{
+    color: #666;
+   margin-bottom: 20px;
+}
+
+.Events-dynamic-section p{
+    font-size:14px;
+        font-size: 14px;
+   color: #888888;
+}
+
+Message Input
+
+Message Pratima Subedi

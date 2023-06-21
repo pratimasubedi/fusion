@@ -1,0 +1,50 @@
+.Register-heading h3{
+    color:#fff;
+    float: left;
+    width: 100%;
+    font-family: Quicksand;
+   font-weight: bold;
+    letter-spacing: -1px;
+    margin-top:270px;
+    text-align:center;
+    font-size:30px;
+}
+
+/**/
+.termClass:hover{
+text-decoration: none;
+color: #fb236c!important;
+}
+.register-full-name{
+    margin: 0px 20px;
+}
+.account-popup_wider h3{
+	text-align: center;
+	padding:50px 0px;
+}
+
+.text-left label{
+	font-size:20px;
+}
+
+.btn-default-signup{
+    margin-top: 20px;
+    background-color:#141F72;
+    border-radius:100px;
+    color: #fff;
+    padding: 10px 40px;
+}
+.btn-default-signup:hover{
+    background-color:#FB3476;
+}
+
+.text-left a{
+	color: #FB236A;
+}
+.New-user-section{
+	text-align: center;
+	font-size:20px;
+}
+.New-user-section a{
+	color: #FB236A; 
+}

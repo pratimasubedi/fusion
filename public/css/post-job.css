@@ -1,0 +1,84 @@
+.post-job-cover{
+   height:700px;
+   overflow:hidden;
+}
+.post-job-cover img{
+   height: 100%;
+   width: 100%;
+   object-fit:cover;
+}
+.post-job-heading h3{
+   color:#fff;
+   float:left;
+   width:100%;
+   font-family:Quicksand;
+   font-weight:bold;
+   letter-spacing:-1px;
+   margin-top:470px;
+   text-align:center;
+}
+/**/
+.post-job-forms{
+    margin:100px 0px;
+}
+
+
+.post-job-forms input {
+   color: #666;
+   border-color: #888;
+   background-color: #fff;
+   border: 1px solid#ccc;
+}
+
+.post-job-forms h1{
+    color:#FB236A;
+    font-size:20px;
+     padding-left:20px;
+}
+
+
+.gender-select {
+   text-transform: none;
+   padding: 16px 202px;
+   border-color: #ccc;
+   color: #888;
+}
+
+.select-file-heading{
+   color: #FB236A;
+   font-size: 20px;
+   margin-left: 19px;
+   margin-bottom: -13px;
+}
+
+.select-file {
+   margin-top: 20px;
+   padding: 14px 125px;
+   background-color: #E4E4E4;
+   margin-left: -3px;
+   }
+
+   .choose-file-section>input{
+       margin-left:0px;
+   }
+   .status-select {
+   text-transform: none;
+   padding: 16px 495px;
+   border-color: #ccc;
+   color: #888;
+}
+.post-job-btn{
+color:#fff;
+background-color:#FB236A;
+border-radius:25px;
+padding: 15px 67px;
+margin-left: 481px;
+
+}
+.post-job-btn:hover{
+color:#fff;
+}
+.post-job-button-section{
+   margin-bottom:70px;
+margin-top:100px;
+}
